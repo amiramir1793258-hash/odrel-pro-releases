@@ -1,0 +1,11 @@
+{
+  "version": "2.1.6",
+  "url": "https://github.com/amiramir1793258-hash/odrel-pro-releases/releases/download/v2.1.6/OdrelAccountingPro_SCF_Elite_v2.1.6_Setup.exe",
+  "sha256": "c71390f6c1f0ad7562f844413af1ab56168a6f32f33cf3965f5b558a9e468d29",
+  "signature": "537ea5512a31103db5ec91c8bf3aa711d5381b526c68a11d6d4b8a816a835379bf070765f2d6852c77e305b76059ca7449a7e2685d66c587327020788e8c4804",
+  "notes": "تحديث الهوية البصرية وشعار Odrel Accounting Pro في شاشة البدء والقوائم الرئيسية، مع تحسين سهولة التفعيل والتحديث التلقائي المباشر.",
+  "notes_fr": "Mise à jour de l’identité visuelle et du logo Odrel Accounting Pro sur l’écran de démarrage et les menus, avec amélioration de l’activation et des mises à jour automatiques.",
+  "notes_en": "Updated Odrel Accounting Pro visual identity and logo on the startup screen and main menus, with smoother activation and automatic updates.",
+  "mandatory": false,
+  "min_schema": 0
+}
