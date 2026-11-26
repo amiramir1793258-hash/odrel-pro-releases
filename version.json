@@ -1,11 +1,11 @@
 {
-  "version": "2.2.14",
-  "url": "https://github.com/amiramir1793258-hash/odrel-pro-releases/releases/download/v2.2.14/OdrelAccountingPro_v2.2.14_Patch.exe",
-  "sha256": "aa9e7998165f77dd6c7f84cd08a5d225eb9466f3f836de384cedd0434f97002a",
-  "signature": "b3d7367807d5b6f4f794f97bbb4be56b2bfb04798756453931f42190df34cbe3b3112bc770d25ab3a536c6f8fc33fe268e18911b3f5f67a27f881c98f9821c0c",
+  "version": "2.2.15",
+  "url": "https://github.com/amiramir1793258-hash/odrel-pro-releases/releases/download/v2.2.15/OdrelAccountingPro_v2.2.15_Patch.exe",
+  "sha256": "49b71113019ed852f24833f0d4751f99e480c8870296d320a45217b38f29009c",
+  "signature": "7119d1a34929c4f72e4ec4e3cb314683ecca710dbe094fcb0044590a53b193ba38e37fc1e91e859895c3f56b871ef9da2773b6c8e10992b7eeec99adfb04e306",
   "notes": "تحسينات وتصحيحات G50 والفوترة والبحث الفوري",
-  "notes_fr": "Mise a jour Odrel Accounting Pro v2.2.14",
-  "notes_en": "• Odrel Accounting Pro updated release 2.2.14.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "notes_fr": "Mise a jour Odrel Accounting Pro v2.2.15",
+  "notes_en": "• Odrel Accounting Pro updated release 2.2.15.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": false,
   "min_schema": 0
 }
