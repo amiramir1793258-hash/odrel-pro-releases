@@ -1,11 +1,11 @@
 {
-  "version": "2.2.31",
-  "url": "https://github.com/amiramir1793258-hash/odrel-pro-releases/releases/download/v2.2.31/OdrelAccountingPro_v2.2.31_Patch.exe",
-  "sha256": "d2f78befc1cd03ea103325c1b61593c36a6ae9413f2947c1d5303691004d7b36",
-  "signature": "c17898f73c73588c99a07b173893b9bcedb21687c97a3545a96129d18a13e4bb2253438ab98f3d7b9f3a4ba769b8e2959e644acfd4b999d0f1899899d4354e07",
-  "notes": "• إصدار أودرل للمحاسبة برو المحدّث 2.2.31.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
-  "notes_fr": "Mise a jour Odrel Accounting Pro v2.2.31",
-  "notes_en": "• Odrel Accounting Pro updated release 2.2.31.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "version": "2.2.32",
+  "url": "https://github.com/amiramir1793258-hash/odrel-pro-releases/releases/download/v2.2.32/OdrelAccountingPro_v2.2.32_Patch.exe",
+  "sha256": "c9e2eebf5df544981f3598017468664e269f8b8a23f17f55e8cd9b7fc621802c",
+  "signature": "7e00af680d7cbf5c6b7d59c27759884744d75567292927f02a478d14a38a7ad7a38f07535b074505a35adc9c640326e04c6c2ba9d515561aeb28034b01c2bf05",
+  "notes": "• إصدار أودرل للمحاسبة برو المحدّث 2.2.32.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
+  "notes_fr": "Mise a jour Odrel Accounting Pro v2.2.32",
+  "notes_en": "• Odrel Accounting Pro updated release 2.2.32.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": false,
   "min_schema": 0
 }
